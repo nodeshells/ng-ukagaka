@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ukatest</string>
+    <string name="title_activity_main">ukatest</string>
+    <string name="package_name">com.kenta</string>
+    <string name="custom_url_scheme">com.kenta</string>
+</resources>

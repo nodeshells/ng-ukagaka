@@ -1,5 +1,7 @@
 {
   "name": "ngx-ukagaka",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }

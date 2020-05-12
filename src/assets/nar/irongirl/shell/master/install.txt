@@ -1,0 +1,4 @@
+﻿Charaset,Shift_JIS
+type,shell
+name,少女と鋼鉄
+directory,M&M
